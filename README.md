@@ -17,3 +17,6 @@ MCV: 0.342539
 ## Build
 * Clone the repo
 * Configure and build using CMake
+
+## Credits
+https://www.researchgate.net/publication/305508242_A_part_complexity_measurement_method_supporting_3D_Printing
